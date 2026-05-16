@@ -1,0 +1,11 @@
+{
+  "firstname": "Victor",
+  "lastname": "Berton",
+  "totalprice": 999,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-05-20",
+    "checkout": "2026-05-30"
+  },
+  "additionalneeds": "Breakfast"
+}
