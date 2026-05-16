@@ -21,7 +21,7 @@ Na pasta WEB pode ser encontrada a Automação do portal: https://www.saucedemo.
 
 Na pasta API pode ser encontrada a Automação: https://restful-booker.herokuapp.com/apidoc/index.html
 
-##  Estrutura
+##  Problemas
 Há problemas de acessibilidade na página de listagem após o login
 
 Usuários com problemas ao finalizar o Checkout (preenchimento do formulário)
